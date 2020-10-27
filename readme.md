@@ -20,10 +20,9 @@
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
-![Dia 01](#)
+![Dia 01](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%201%20-%20Button%20Hover%20Animation%20Effect/img/anima%C3%A7%C3%A3o.gif)
 
-[Meu codigo](#)
-
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%201%20-%20Button%20Hover%20Animation%20Effect)
 
 
 ##### O que eu aprendi
