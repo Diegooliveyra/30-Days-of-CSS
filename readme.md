@@ -18,6 +18,7 @@
 
 * [Dia 01 - Button Hover Animation Effect](#id01)
 * [Dia 02 - Creative Menu Item Hover Effects](#id02)
+* [Dia 03 - Hover effects focus](#id03)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -47,3 +48,17 @@
 * *[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)*
 * *[overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow)*
 
+
+##  Desafio dia 03 - Hover effects focus <a name="id03"></a>
+
+![Dia 01](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%202%20-%20Creative%20Menu%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%202%20-%20Creative%20Menu%20Item%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[Transform CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)*
+* *[Filter blur](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur)*
+* *[General sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator)*
+* *[overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow)*
