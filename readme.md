@@ -67,9 +67,9 @@
 
 ##  Desafio dia 04 - Images Hover Effect <a name="id04"></a>
 
-![Dia 01](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%203%20-%20Hover%20effects%20focus/img/anima%C3%A7%C3%A3o.gif)
+![Dia 01](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%204%20-%20Images%20Hover%20Effect/img/anima%C3%A7%C3%A3o.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%203%20-%20Hover%20effects%20focus/img/anima%C3%A7%C3%A3o.gif)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%204%20-%20Images%20Hover%20Effect)
 
 
 ##### O que eu aprendi
