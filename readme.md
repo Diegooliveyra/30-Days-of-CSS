@@ -20,6 +20,7 @@
 * [Dia 02 - Creative Menu Item Hover Effects](#id02)
 * [Dia 03 - Hover Effects Focus](#id03)
 * [Dia 04 - Images Hover Effect](#id04)
+* [Dia 05 - Creative Image Hover Effects](#id05)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -76,3 +77,15 @@
 
 * *[Before CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)*
 * *[Filter Grayscale](https://developer.mozilla.org/pt-BR/docs/Web/CSS/filter-function/grayscale)*
+
+##  Desafio dia 05 - Creative Image Hover Effects <a name="id05"></a>
+
+![Dia 01](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%204%20-%20Images%20Hover%20Effect/img/anima%C3%A7%C3%A3o.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%205%20-%20Creative%20Image%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)*
+* *[opacity](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity)*
