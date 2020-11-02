@@ -94,9 +94,9 @@
 
 ##  Desafio dia 06 - List Item Hover Effects <a name="id06"></a>
 
-![Dia 05](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%205%20-%20Creative%20Image%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+![Dia 06](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%206%20-%20List%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%205%20-%20Creative%20Image%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%206%20-%20List%20Item%20Hover%20Effects)
 
 
 ##### O que eu aprendi
