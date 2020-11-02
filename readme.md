@@ -21,6 +21,7 @@
 * [Dia 03 - Hover Effects Focus](#id03)
 * [Dia 04 - Images Hover Effect](#id04)
 * [Dia 05 - Creative Image Hover Effects](#id05)
+* [Dia 06 - List Item Hover Effects](#id06)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -89,3 +90,16 @@
 
 * *[clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)*
 * *[opacity](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity)*
+
+
+##  Desafio dia 06 - List Item Hover Effects <a name="id06"></a>
+
+![Dia 05](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%205%20-%20Creative%20Image%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%205%20-%20Creative%20Image%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
+* *[letter-spacing](https://developer.mozilla.org/pt-BR/docs/Web/CSS/letter-spacing)*
