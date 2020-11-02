@@ -108,7 +108,7 @@
 
 ##  Desafio dia 07 - Animated Share Button <a name="id07"></a>
 
-![Dia 06](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%206%20-%20List%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+![Dia 07](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%207%20-%20Animated%20Share%20Button/img/anima%C3%A7%C3%A3o.gif)
 
 [Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%207%20-%20Animated%20Share%20Button)
 
