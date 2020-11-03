@@ -23,6 +23,7 @@
 * [Dia 05 - Creative Image Hover Effects](#id05)
 * [Dia 06 - List Item Hover Effects](#id06)
 * [Dia 07 - Animated Share Button](#id07)
+* [Dia 08 - 3D Flip Card Hover Effects](#id08)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -117,3 +118,18 @@
 
 * *[transition-delay](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition-delay)*
 * *[transform: translateX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateX)*
+
+
+##  Desafio dia 08 - 3D Flip Card Hover Effects <a name="id07"></a>
+
+![Dia 08](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%207%20-%20Animated%20Share%20Button/img/anima%C3%A7%C3%A3o.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%207%20-%20Animated%20Share%20Button)
+
+
+##### O que eu aprendi
+
+* *[transform: perspective](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective)*
+* *[backface-visibility](https://developer.mozilla.org/pt-BR/docs/Web/CSS/backface-visibility)*
+* *[transform-style: preserve-3d](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-style)*
+
