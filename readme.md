@@ -24,6 +24,7 @@
 * [Dia 06 - List Item Hover Effects](#id06)
 * [Dia 07 - Animated Share Button](#id07)
 * [Dia 08 - 3D Flip Card Hover Effects](#id08)
+* [Dia 09 - Quick Menu Item Hover Effects](#id09)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
