@@ -136,9 +136,9 @@
 
 ##  Desafio dia 09 - Quick Menu Item Hover Effects <a name="id09"></a>
 
-![Dia 09](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%208%20-%20%C2%963D%20Flip%20Card%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+![Dia 09](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%208%20-%20%C2%963D%20Flip%20Card%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects)
 
 
 ##### O que eu aprendi
