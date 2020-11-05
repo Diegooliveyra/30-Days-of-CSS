@@ -150,9 +150,9 @@
 
 ##  Desafio dia 10 - Card Hover Effects <a name="id10"></a>
 
-![Dia 10](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+![Dia 10](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2010%20-%20Card%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2010%20-%20Card%20Hover%20Effects)
 
 
 ##### O que eu aprendi
