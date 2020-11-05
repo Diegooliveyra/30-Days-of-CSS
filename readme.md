@@ -25,6 +25,7 @@
 * [Dia 07 - Animated Share Button](#id07)
 * [Dia 08 - 3D Flip Card Hover Effects](#id08)
 * [Dia 09 - Quick Menu Item Hover Effects](#id09)
+* [Dia 10 - Card Hover Effects](#id10)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -145,3 +146,15 @@
 ##### O que eu aprendi
 
 * *[content: attr](https://developer.mozilla.org/pt-BR/docs/Web/CSS/attr())*
+
+
+##  Desafio dia 10 - Card Hover Effects <a name="id10"></a>
+
+![Dia 10](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%209%20-%20Quick%20Menu%20Item%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[visibility](https://developer.mozilla.org/pt-BR/docs/Web/CSS/visibility)*

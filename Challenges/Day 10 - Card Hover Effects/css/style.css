@@ -26,7 +26,7 @@ body{
   max-width: 300px;
   height: 215px; 
   background: #ffffff;
-  margin: 200px 10px;
+  margin: 50px 10px;
   padding: 20px 15px;
   display: flex;
   align-items: center;
@@ -44,7 +44,6 @@ body{
   width: 260px;
   height: 260px;
   top: -45px;
-
   z-index: 1;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
 }
