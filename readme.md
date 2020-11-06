@@ -163,9 +163,9 @@
 
 ##  Desafio dia 11 - LinkedIn Loading Animation <a name="id11"></a>
 
-![Dia 11](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2010%20-%20Card%20Hover%20Effects/img/anima%C3%A7%C3%A3o.gif)
+![Dia 11](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2010%20-%20Card%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation)
 
 
 ##### O que eu aprendi
