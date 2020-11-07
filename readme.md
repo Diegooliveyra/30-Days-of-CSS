@@ -27,6 +27,7 @@
 * [Dia 09 - Quick Menu Item Hover Effects](#id09)
 * [Dia 10 - Card Hover Effects](#id10)
 * [Dia 11 - LinkedIn Loading Animation](#id11)
+* [Dia 11 - LinkedIn Loading Animation](#id11)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
