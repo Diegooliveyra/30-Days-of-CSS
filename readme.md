@@ -27,7 +27,7 @@
 * [Dia 09 - Quick Menu Item Hover Effects](#id09)
 * [Dia 10 - Card Hover Effects](#id10)
 * [Dia 11 - LinkedIn Loading Animation](#id11)
-* [Dia 11 - LinkedIn Loading Animation](#id11)
+* [Dia 12 - Pixel Button Hover Animation](#id12)
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -163,6 +163,18 @@
 
 
 ##  Desafio dia 11 - LinkedIn Loading Animation <a name="id11"></a>
+
+![Dia 11](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation)
+
+
+##### O que eu aprendi
+
+* *[animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)*
+
+
+##  Desafio dia 12 - Pixel Button Hover Animation <a name="id12"></a>
 
 ![Dia 11](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation/img/animation.gif)
 
