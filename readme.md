@@ -178,7 +178,7 @@
 
 ![Dia 11](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2011%20-%20LinkedIn%20Loading%20Animation)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2012%20-%20Pixel%20Button%20Hover%20Animation)
 
 
 ##### O que eu aprendi
