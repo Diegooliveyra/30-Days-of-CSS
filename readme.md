@@ -28,6 +28,8 @@
 * [Dia 10 - Card Hover Effects](#id10)
 * [Dia 11 - LinkedIn Loading Animation](#id11)
 * [Dia 12 - Pixel Button Hover Animation](#id12)
+* [Dia 13 - Icon Hover Effects](#id13)
+
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
 
@@ -184,3 +186,16 @@
 ##### O que eu aprendi
 
 * *[animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)*
+
+
+##  Desafio dia 13 - Icon Hover Effects <a name="id12"></a>
+
+![Dia 12](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2012%20-%20Pixel%20Button%20Hover%20Animation/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2013%20-%20Icon%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[object-fit](https://developer.mozilla.org/pt-BR/docs/Web/CSS/object-fit)*
+* *[mix-blend-mode](https://developer.mozilla.org/pt-BR/docs/Web/CSS/mix-blend-mode)*
