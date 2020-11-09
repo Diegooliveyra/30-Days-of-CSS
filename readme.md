@@ -203,9 +203,9 @@
 
 ##  Desafio dia 14 - Pure CSS Smiley Rating Bar <a name="id14"></a>
 
-![Dia 13](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2013%20-%20Icon%20Hover%20Effects/img/animation.gif)
+![Dia 14](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2014%20-%20Pure%20CSS%20Smiley%20Rating%20Bar/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2013%20-%20Icon%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2014%20-%20Pure%20CSS%20Smiley%20Rating%20Bar)
 
 
 ##### O que eu aprendi
