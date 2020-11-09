@@ -29,6 +29,7 @@
 * [Dia 11 - LinkedIn Loading Animation](#id11)
 * [Dia 12 - Pixel Button Hover Animation](#id12)
 * [Dia 13 - Icon Hover Effects](#id13)
+* [Dia 14 - Pure CSS Smiley Rating Bar ](#id14)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -199,3 +200,15 @@
 
 * *[object-fit](https://developer.mozilla.org/pt-BR/docs/Web/CSS/object-fit)*
 * *[mix-blend-mode](https://developer.mozilla.org/pt-BR/docs/Web/CSS/mix-blend-mode)*
+
+##  Desafio dia 14 - Pure CSS Smiley Rating Bar <a name="id14"></a>
+
+![Dia 13](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2013%20-%20Icon%20Hover%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2013%20-%20Icon%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[input:checked](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input/checkbox)*
+* *[filter: grayscale](https://developer.mozilla.org/pt-BR/docs/Web/CSS/filter-function/grayscale)*
