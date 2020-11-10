@@ -217,7 +217,7 @@
 
 ##  Desafio dia 15 - Glowing Tubelight Text Animation Effects <a name="id15"></a>
 
-![Dia 15](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2014%20-%20Pure%20CSS%20Smiley%20Rating%20Bar/img/animation.gif)
+![Dia 15](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects/img/animation.gif)
 
 [Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects)
 
