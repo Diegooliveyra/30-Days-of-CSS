@@ -224,5 +224,6 @@
 
 ##### O que eu aprendi
 
+* *[contenteditable](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/contenteditable)*
 * *[text-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)*
 * *[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
