@@ -31,6 +31,7 @@
 * [Dia 13 - Icon Hover Effects](#id13)
 * [Dia 14 - Pure CSS Smiley Rating Bar ](#id14)
 * [Dia 15 - Glowing Tubelight Text Animation Effects ](#id15)
+* [Dia 16 - Full Page Scrolling Effects ](#id16)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -227,3 +228,18 @@
 * *[contenteditable](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/contenteditable)*
 * *[text-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)*
 * *[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
+
+
+##  Desafio dia 16 - Full Page Scrolling Effects <a name="id16"></a>
+
+![Dia 16](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects)
+
+
+##### O que eu aprendi
+
+* *[background-blend-mode](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-blend-mode)*
+* *[background-attachment](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-attachment)*
+* *[scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)*
+* *[scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align)*
