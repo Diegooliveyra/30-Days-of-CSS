@@ -232,9 +232,9 @@
 
 ##  Desafio dia 16 - Full Page Scrolling Effects <a name="id16"></a>
 
-![Dia 16](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects/img/animation.gif)
+![Dia 16](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2015%20-%20Glowing%20Tubelight%20Text%20Animation%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects)
 
 
 ##### O que eu aprendi
