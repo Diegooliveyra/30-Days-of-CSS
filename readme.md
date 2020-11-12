@@ -32,6 +32,7 @@
 * [Dia 14 - Pure CSS Smiley Rating Bar ](#id14)
 * [Dia 15 - Glowing Tubelight Text Animation Effects ](#id15)
 * [Dia 16 - Full Page Scrolling Effects ](#id16)
+* [Dia 17 - Text Typing Menu Item Hover Effects ](#id17)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -243,3 +244,18 @@
 * *[background-attachment](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-attachment)*
 * *[scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)*
 * *[scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align)*
+
+
+
+
+##  Desafio dia 17 - Text Typing Menu Item Hover Effects <a name="id17"></a>
+
+![Dia 17](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects)
+
+
+##### O que eu aprendi
+
+* *[white-space](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)*
+* *[animation / forwards](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-fill-mode)*
