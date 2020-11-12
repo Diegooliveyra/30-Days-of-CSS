@@ -250,9 +250,9 @@
 
 ##  Desafio dia 17 - Text Typing Menu Item Hover Effects <a name="id17"></a>
 
-![Dia 17](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects/img/animation.gif)
+![Dia 17](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2016%20-%20Full%20Page%20Scrolling%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects)
 
 
 ##### O que eu aprendi
