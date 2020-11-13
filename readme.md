@@ -265,9 +265,9 @@
 
 ##  Desafio dia 18 - Non-Rectangular Header <a name="id18"></a>
 
-![Dia 18](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects/img/animation.gif)
+![Dia 18](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2018%20-%20Non-Rectangular%20Header/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2018%20-%20Non-Rectangular%20Header)
 
 
 ##### O que eu aprendi
