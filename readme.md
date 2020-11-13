@@ -33,6 +33,8 @@
 * [Dia 15 - Glowing Tubelight Text Animation Effects ](#id15)
 * [Dia 16 - Full Page Scrolling Effects ](#id16)
 * [Dia 17 - Text Typing Menu Item Hover Effects ](#id17)
+* [Dia 17 - Text Typing Menu Item Hover Effects ](#id17)
+* [Dia 18 - Non-Rectangular Header](#id18)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -259,3 +261,16 @@
 
 * *[white-space](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)*
 * *[animation / forwards](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-fill-mode)*
+
+
+##  Desafio dia 18 - Non-Rectangular Header <a name="id18"></a>
+
+![Dia 18](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2017%20-%20Text%20Typing%20Menu%20Item%20Hover%20Effects)
+
+
+##### O que eu aprendi
+
+* *[background-attachment:](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-attachment)*
+* *[clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)*
