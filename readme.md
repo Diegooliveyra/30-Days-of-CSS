@@ -35,6 +35,7 @@
 * [Dia 17 - Text Typing Menu Item Hover Effects ](#id17)
 * [Dia 18 - Non-Rectangular Header](#id18)
 * [Dia 19 - Modern CSS Button Hover Effect](#id19)
+* [Dia 20 - Responsive Sidebar Menu](#id20)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -277,7 +278,7 @@
 
 
 
-##  Desafio dia 19 - Non-Rectangular Header <a name="id19"></a>
+##  Desafio dia 19 - Modern CSS Button Hover Effect <a name="id19"></a>
 
 ![Dia 19](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect/img/animation.gif)
 
@@ -288,3 +289,16 @@
 
 * *[user-select](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)*
 * *[place-items](https://developer.mozilla.org/en-US/docs/Web/CSS/place-items)*
+
+
+##  Desafio dia 20 - Responsive Sidebar Menu <a name="id20"></a>
+
+![Dia 20](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect)
+
+
+##### O que eu aprendi
+
+* *[transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)*
+* *[linear-gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)*

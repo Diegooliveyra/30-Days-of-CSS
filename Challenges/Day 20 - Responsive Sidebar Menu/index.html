@@ -1,33 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./css/style.css">
-  <link
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
-  <title>Document</title>
-</head>
-<body>
-  <div class="wrapper">
-    <div class="menu">
-      <h1>Sidebar</h1>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">News</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </div>
-    <div class="content">
-      <div class="button">
-        <div class="line first top"></div>
-        <div class="line second botton"></div>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="menu">
+        <h1>Coffe</h1>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">News</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="content">
+        <div class="button">
+          <div class="line first top"></div>
+          <div class="line second botton"></div>
+        </div>
       </div>
     </div>
-  </div>
-  
-</body>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script>
+      function expand() {
+        $(this).toggleClass("on");
+        $(".menu").toggleClass('active')
+      }
+      $(".button").on("click", expand);
+    </script>
+  </body>
 </html>

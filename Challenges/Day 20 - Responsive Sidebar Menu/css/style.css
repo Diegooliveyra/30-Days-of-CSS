@@ -19,10 +19,12 @@ body {
   left: 0;
   bottom: 0;
   overflow: hidden;
-  background: #581043;
+  background-color: #ebbe9b;
+  background-image: linear-gradient(0deg, #ebbe9b 0%, #e7a977 74%);
   transition: all 250ms;
   transform: translateZ(0) translateX(-100%);
   text-align: center;
+  width: 300px;
 }
 
 .active {
@@ -30,7 +32,7 @@ body {
 }
 
 h1 {
-  margin-top: 150px;
+  margin: 200px 0 50px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -60,13 +62,13 @@ a:hover {
 
 .content{
   position: relative;
-  width: 400px;
+  width: 500px;
 }
 
 .button {
   width: 50px;
   height: 50px;
-  margin: 70px 97px;
+  margin: 70px 125px;
   padding: 10px;
   cursor: pointer;
 }
@@ -74,7 +76,7 @@ a:hover {
 .line {
   width: 40px;
   height: 2px;
-  background-color: white;
+  background-color: #4d2b0c;
   transition: transform 0.3s ease, background 0.3s ease, opacity 0.3s ease, top 0.3s ease;
 }
 
