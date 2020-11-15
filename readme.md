@@ -293,9 +293,9 @@
 
 ##  Desafio dia 20 - Responsive Sidebar Menu <a name="id20"></a>
 
-![Dia 20](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect/img/animation.gif)
+![Dia 20](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2020%20-%20Responsive%20Sidebar%20Menu/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2020%20-%20Responsive%20Sidebar%20Menu)
 
 
 ##### O que eu aprendi
