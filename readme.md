@@ -279,9 +279,9 @@
 
 ##  Desafio dia 19 - Non-Rectangular Header <a name="id19"></a>
 
-![Dia 19](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2018%20-%20Non-Rectangular%20Header/img/animation.gif)
+![Dia 19](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2018%20-%20Non-Rectangular%20Header)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2019%20-%20Modern%20CSS%20Button%20Hover%20Effect)
 
 
 ##### O que eu aprendi
