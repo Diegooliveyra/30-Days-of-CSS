@@ -36,6 +36,8 @@
 * [Dia 18 - Non-Rectangular Header](#id18)
 * [Dia 19 - Modern CSS Button Hover Effect](#id19)
 * [Dia 20 - Responsive Sidebar Menu](#id20)
+* [Dia 21 - Change Language Toggle](#id21)
+
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -302,3 +304,16 @@
 
 * *[transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)*
 * *[linear-gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)*
+
+
+##  Desafio dia 21 - Change Language Toggle <a name="id21"></a>
+
+![Dia 21](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2020%20-%20Responsive%20Sidebar%20Menu/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2020%20-%20Responsive%20Sidebar%20Menu)
+
+
+##### O que eu aprendi
+
+* *[checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)*
+* *[subsequent-sibling combinator ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/General_sibling_combinator)*
