@@ -308,7 +308,7 @@
 
 ##  Desafio dia 21 - Change Language Toggle <a name="id21"></a>
 
-![Dia 21](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2020%20-%20Responsive%20Sidebar%20Menu/img/animation.gif)
+![Dia 21](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2021%20-%20Change%20Language%20Toggle/img/animation.gif)
 
 [Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2021%20-%20Change%20Language%20Toggle)
 
