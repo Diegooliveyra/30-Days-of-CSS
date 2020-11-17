@@ -323,7 +323,7 @@
 
 ##  Desafio dia 22 - Scroll Down Indicator Animation Effects  <a name="id22"></a>
 
-![Dia 22](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2021%20-%20Change%20Language%20Toggle/img/animation.gif)
+![Dia 22](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2022%20-%20Scroll%20Down%20Indicator/img/animation.gif)
 
 [Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2022%20-%20Scroll%20Down%20Indicator)
 
