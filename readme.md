@@ -37,6 +37,7 @@
 * [Dia 19 - Modern CSS Button Hover Effect](#id19)
 * [Dia 20 - Responsive Sidebar Menu](#id20)
 * [Dia 21 - Change Language Toggle](#id21)
+* [Dia 22 - Scroll Down Indicator Animation Effects](#id22)
 
 
 
@@ -317,3 +318,16 @@
 
 * *[checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)*
 * *[subsequent-sibling combinator ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/General_sibling_combinator)*
+
+
+
+##  Desafio dia 22 - Scroll Down Indicator Animation Effects  <a name="id22"></a>
+
+![Dia 22](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2021%20-%20Change%20Language%20Toggle/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2022%20-%20Scroll%20Down%20Indicator)
+
+
+##### O que eu aprendi
+
+* *[transform: translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)*
