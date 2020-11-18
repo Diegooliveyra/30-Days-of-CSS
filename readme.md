@@ -317,8 +317,8 @@
 
 ##### O que eu aprendi
 
-* *[pointer-events](https://developer.mozilla.org/pt-BR/docs/Web/CSS/pointer-events)*
-* *[input:valid ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:valid)*
+* *[:checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)*
+
 
 
 
@@ -336,11 +336,12 @@
 
 ##  Desafio dia 23 - Animated Input Label <a name="id23"></a>
 
-![Dia 23](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2022%20-%20Scroll%20Down%20Indicator/img/animation.gif)
+![Dia 23](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2022%20-%20Scroll%20Down%20Indicator)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using)
 
 
 ##### O que eu aprendi
 
-* *[transform: translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)*
+* *[pointer-events](https://developer.mozilla.org/pt-BR/docs/Web/CSS/pointer-events)*
+* *[input:valid ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:valid)*
