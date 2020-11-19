@@ -39,6 +39,7 @@
 * [Dia 21 - Change Language Toggle](#id21)
 * [Dia 22 - Scroll Down Indicator Animation Effects](#id22)
 * [Dia 23 - Animated Input Label ](#id23)
+* [Dia 24 - Awesome hover effect on images](#id24)
 
 
 
@@ -349,9 +350,9 @@
 
 ##  Desafio dia 24 - Awesome hover effect on images <a name="id24"></a>
 
-![Dia 24](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using/img/animation.gif)
+![Dia 24](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2024%20-%20Awesome%20hover%20effect%20on%20images/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2024%20-%20Awesome%20hover%20effect%20on%20images)
 
 
 ##### O que eu aprendi
