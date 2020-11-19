@@ -345,3 +345,16 @@
 
 * *[pointer-events](https://developer.mozilla.org/pt-BR/docs/Web/CSS/pointer-events)*
 * *[input:valid ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:valid)*
+
+
+##  Desafio dia 24 - Awesome hover effect on images <a name="id24"></a>
+
+![Dia 24](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2023%20-%20Animated%20Input%20Label%20using)
+
+
+##### O que eu aprendi
+
+* *[background properties](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background)*
+

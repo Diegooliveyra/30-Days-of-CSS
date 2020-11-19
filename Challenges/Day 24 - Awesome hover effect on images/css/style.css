@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgb(221, 220, 224);
+}
+
+.container {
+  display: flex;
+}
+
+.img {
+  width: 240px;
+  height: 400px;
+  margin: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: 2s;
+}
+
+.img:hover {
+  background-position: bottom center;
+}
+
+.img1 {
+  background-image: url(../img/i1.png);
+}
+
+.img2 {
+  background-image: url(../img/i2.png);
+}
+
+.img3 {
+  background-image: url(../img/i3.png);
+}
