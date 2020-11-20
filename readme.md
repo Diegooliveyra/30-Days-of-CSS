@@ -40,6 +40,7 @@
 * [Dia 22 - Scroll Down Indicator Animation Effects](#id22)
 * [Dia 23 - Animated Input Label ](#id23)
 * [Dia 24 - Awesome hover effect on images](#id24)
+* [Dia 25 - Awesome hover effect on images](#id25)
 
 
 
@@ -359,3 +360,15 @@
 
 * *[background properties](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background)*
 
+
+
+##  Desafio dia 25 - Loading Text Animation Effects  <a name="id25"></a>
+
+![Dia 25](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2024%20-%20Awesome%20hover%20effect%20on%20images/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2024%20-%20Awesome%20hover%20effect%20on%20images)
+
+
+##### O que eu aprendi
+
+* *[mix-blend-mode](https://developer.mozilla.org/pt-BR/docs/Web/CSS/mix-blend-mode)*
