@@ -42,7 +42,7 @@
 * [Dia 22 - Scroll Down Indicator Animation Effects](#id22)
 * [Dia 23 - Animated Input Label ](#id23)
 * [Dia 24 - Awesome hover effect on images](#id24)
-* [Dia 25 - Awesome hover effect on images](#id25)
+* [Dia 25 - Loading Text Animation Effects ](#id25)
 
 
 
