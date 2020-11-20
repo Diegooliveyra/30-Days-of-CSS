@@ -364,7 +364,7 @@
 
 ##  Desafio dia 25 - Loading Text Animation Effects  <a name="id25"></a>
 
-![Dia 25](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2024%20-%20Awesome%20hover%20effect%20on%20images/img/animation.gif)
+![Dia 25](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects/img/animation.gif)
 
 [Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects)
 
