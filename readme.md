@@ -379,9 +379,9 @@
 
 ##  Desafio dia 26 - TikTok Text Animation Effects  <a name="id26"></a>
 
-![Dia 26](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects/img/animation.gif)
+![Dia 26](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2026%20-%20TikTok%20Text%20Animation%20Effects/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2026%20-%20TikTok%20Text%20Animation%20Effects)
 
 
 ##### O que eu aprendi
