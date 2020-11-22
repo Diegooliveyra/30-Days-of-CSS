@@ -43,7 +43,7 @@
 * [Dia 23 - Animated Input Label ](#id23)
 * [Dia 24 - Awesome hover effect on images](#id24)
 * [Dia 25 - Loading Text Animation Effects ](#id25)
-
+* [Dia 26 - TikTok Text Animation Effects ](#id26)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -374,3 +374,16 @@
 ##### O que eu aprendi
 
 * *[mix-blend-mode](https://developer.mozilla.org/pt-BR/docs/Web/CSS/mix-blend-mode)*
+
+
+
+##  Desafio dia 26 - TikTok Text Animation Effects  <a name="id26"></a>
+
+![Dia 26](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2025%20-%20Loading%20Text%20Animation%20Effects)
+
+
+##### O que eu aprendi
+
+* *[text-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)*
