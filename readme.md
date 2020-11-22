@@ -392,9 +392,9 @@
 
 ##  Desafio dia 27 - TikTok Text Animation Effects  <a name="id27"></a>
 
-![Dia 27](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2026%20-%20TikTok%20Text%20Animation%20Effects/img/animation.gif)
+![Dia 27](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2027%20-%20CSS%20Image%20Hover%20Effects/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2026%20-%20TikTok%20Text%20Animation%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2027%20-%20CSS%20Image%20Hover%20Effects)
 
 
 ##### O que eu aprendi
