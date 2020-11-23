@@ -45,6 +45,7 @@
 * [Dia 25 - Loading Text Animation Effects ](#id25)
 * [Dia 26 - TikTok Text Animation Effects ](#id26)
 * [Dia 27 - CSS Clip-path Hover Effect ](#id27)
+* [Dia 28 - Direction Aware Button Ripple Effects ](#id28)
 
 
 ##  Desafio dia 01 - Button Hover Animation Effect <a name="id01"></a>
@@ -401,3 +402,15 @@
 
 * *[clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)*
 * *[object-fit](https://developer.mozilla.org/pt-BR/docs/Web/CSS/object-fit)*
+
+
+##  Desafio dia 28 - Direction Aware Button Ripple Effects  <a name="id28"></a>
+
+![Dia 28](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2028%20-%20Direction%20Aware%20Button%20Ripple%20Effects/img/animation.gif)
+
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2028%20-%20Direction%20Aware%20Button%20Ripple%20Effects)
+
+
+##### O que eu aprendi
+
+* *[animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)*
