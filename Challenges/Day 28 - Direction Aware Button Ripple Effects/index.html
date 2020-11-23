@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  <title>Direction Aware Button Ripple Effects </title>
+</head>
+<body>
+  <a href="#">Button </a>
+  <a href="#">Button </a>
+</body>
+<script>
+  const buttons = document.querySelectorAll('a')
+  buttons.forEach((btn) => {
+    btn.addEventListener('mouseenter', function(e){
+      let x = e.clientX - e.target.offsetLeft
+      let y = e.clientY - e.target.offsetTop
+      let ripples = document.createElement('span')
+      ripples.style.left = x + 'px';
+      ripples.style.top = y + 'px';
+      this.appendChild(ripples)
+
+      setTimeout(()=>{
+        ripples.remove()
+      }, 1000 )
+    })
+  })
+</script>
+
+</html>
