@@ -44,7 +44,7 @@ ul li a .fa {
 
 ul li a:hover .fa {
   color: #00f3ff;
-  text-shadow: 0 0 15px #00f3ff;
+   : 0 0 15px #00f3ff;
 } 
 
 ul:nth-child(2) li a:hover .fa {
