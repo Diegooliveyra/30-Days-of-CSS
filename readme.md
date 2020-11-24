@@ -419,9 +419,9 @@
 
 ##  Desafio dia 29 - Direction Aware Button Ripple Effects  <a name="id29"></a>
 
-![Dia 29](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2028%20-%20Direction%20Aware%20Button%20Ripple%20Effects/img/animation.gif)
+![Dia 29](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2029%20-%20Glowing%20Neumorphism%20Icon%20Hover%20Effects/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2028%20-%20Direction%20Aware%20Button%20Ripple%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2029%20-%20Glowing%20Neumorphism%20Icon%20Hover%20Effects)
 
 
 ##### O que eu aprendi
