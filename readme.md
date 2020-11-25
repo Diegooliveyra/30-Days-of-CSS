@@ -433,9 +433,9 @@
 
 ##  Desafio dia 30 - Direction Aware Button Ripple Effects  <a name="id30"></a>
 
-![Dia 30](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2029%20-%20Glowing%20Neumorphism%20Icon%20Hover%20Effects/img/animation.gif)
+![Dia 30](https://github.com/Diegooliveyra/30-Days-of-CSS/blob/main/Challenges/Day%2030%20-%20Loading%20screen%20Animation/img/animation.gif)
 
-[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2029%20-%20Glowing%20Neumorphism%20Icon%20Hover%20Effects)
+[Meu codigo](https://github.com/Diegooliveyra/30-Days-of-CSS/tree/main/Challenges/Day%2030%20-%20Loading%20screen%20Animation)
 
 
 ##### O que eu aprendi
